@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "gajar1smp.minefort.com",
-    "port": ,
+    "port":"25565",
     "version": "1.20.1",
     "try-creative": false
   },
